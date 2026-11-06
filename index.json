@@ -1,0 +1,11 @@
+{
+  "org": "ansible-community",
+  "repo": "molecule-hetznercloud",
+  "versions": [
+    {
+      "commit": "3c8444a346854358a997b7adca220e61d16566ea",
+      "tag": "",
+      "parsed_at": "2026-11-06T15:50:24.519622+00:00"
+    }
+  ]
+}
