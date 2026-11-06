@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-community/molecule-hetznercloud/commit/3c8444a346854358a997b7adca220e61d16566ea",
       "git:hexsha": "3c8444a346854358a997b7adca220e61d16566ea",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T15:50:24.502764+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-community/molecule-hetznercloud/commit/834c06f6ceb199449b66989fc791456039b34576",
